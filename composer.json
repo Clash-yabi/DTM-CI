@@ -1,0 +1,8 @@
+{
+    "name": "yabetse/phpproject",
+    "type": "library",
+    "description": "exercise php",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "require": {}
+}
