@@ -4,5 +4,7 @@
     "description": "exercise php",
     "minimum-stability": "stable",
     "license": "MIT",
-    "require": {}
+    "require": {
+        "php": ">=8.2"
+    }
 }
